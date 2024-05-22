@@ -1,4 +1,4 @@
-## 👨‍💻 Description
+## MultipartRequest Android
 This is a sample project using multipart request to send an image and text fields to the back-end.
 
 ## 🚀 Technologies Used
